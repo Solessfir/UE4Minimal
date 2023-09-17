@@ -13,24 +13,21 @@ address the iconography of the Unreal Engine 4.
 * Fixed flickering issues with Crash Reporter
 * All PSD files removed (You can get them from the master repository anyway)
 
-###### Screenshots:
-![UE4 Minimal Screenshot 01](https://raw.githubusercontent.com/Solessfir/UE4Minimal/master/UE4Minimal01_01.jpg)
-
-![UE4 Minimal Screenshot 02](https://raw.githubusercontent.com/Solessfir/UE4Minimal/master/UE4Minimal01_02.jpg)
-
 ###### How to install:
-1. Navigate to your Engine\Content folder.
+1. Navigate to your `..Engine\Content` folder.
 
-2. Make a copy of these two folders: "Editor" and "Slate" this will be your backup if you
+2. Make a copy of these two folders: `Editor` and `Slate` this will be your backup if you
 would like to revert the theme, otherwise you'll have to reinstall the engine.
 
-3. Download or clone the repo, and copy the "Editor" and "Slate" folders into your
-Engine/Content folder. You will be asked to override a few thousand files, hit yes.
+3. Download or clone the repo, and copy the `Editor` and `Slate` folders into your
+`..Engine/Content` folder. You will be asked to override a few thousand files, hit yes.
 
-4. Should you want the Graph Nodes in blueprint/material editor to be the old versions,
-Do not copy and replace the "Editor/Slate/Graph" folder.
+4. Once all is done, open the Editor and enjoy your new Minimal theme.
 
-5. Once all is done, open the editor and enjoy your new minimal theme.
+###### Screenshots:
+![UE4 Minimal Screenshot 01](https://github.com/Solessfir/UE4Minimal/blob/8632ac028871095fcfaef72e779bf694a6044ab3/UE4Minimal01_01.png)
+
+![UE4 Minimal Screenshot 02](https://github.com/Solessfir/UE4Minimal/blob/8632ac028871095fcfaef72e779bf694a6044ab3/UE4Minimal01_02.png)
 
 This is all done in my free time, and is something I consider spending a couple months perfecting - 
 So please be patient!
