@@ -20,7 +20,7 @@ address the iconography of the Unreal Engine 4.
 would like to revert the theme, otherwise you'll have to reinstall the engine.
 
 3. Download or clone the repo, and copy the `Editor` and `Slate` folders into your
-`..Engine/Content` folder. You will be asked to override a few thousand files, hit yes.
+`..Engine\Content` folder. You will be asked to override a few thousand files, hit yes.
 
 4. Once all is done, open the Editor and enjoy your new Minimal theme.
 
