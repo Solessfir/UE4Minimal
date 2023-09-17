@@ -1,31 +1,24 @@
 
 # UE4Minimal
 
-UE4 Minimal is an attempt at a dark theme for Unreal Engine 4. Currently compatible with UE4.20 and up. This 
+UE4 Minimal is an attempt at a Dark theme for Unreal Engine 4. Currently compatible with UE 4.20 and up. This 
 theme works by replacing images in UE4's Engine/Content folder - My hope is to go full minimal with this theme and 
-address the iconography of UE4.
+address the iconography of the Unreal Engine 4.
 
-![UE4 Minimal Screenshot 01](https://raw.githubusercontent.com/Sythenz/UE4Minimal/master/UE4Minimal01_01.jpg)
-![UE4 Minimal Screenshot 02](https://raw.githubusercontent.com/Sythenz/UE4Minimal/master/UE4Minimal01_02.jpg)
+###### Changes:
+* Preserved default Blueprint nodes look (You can get flat BP Nodes from the master repo)
+* New Close/Minimize/Maximize buttons
+* All nonflat buttons are now flat
+* Fixed flickering issues for Blueprint Actions (RMB)
+* Fixed flickering issues with Crash Reporter
+* All PSD files removed (You can get them from the master repository anyway)
 
-I've also included PSDs of any file that I've touched - Layer 0 in these PSDs is the original
-image, should you wish to modify or make changes yourself.
+###### Screenshots:
+![UE4 Minimal Screenshot 01](https://raw.githubusercontent.com/Solessfir/UE4Minimal/master/UE4Minimal01_01.jpg)
 
-This is all done in my free time, and is something I consider spending a couple months perfecting - 
-So please be patient!
-
-For latest updates on progress, follow me here:
-
-Twitter: [@codekittah](http://twitter.com/Codekittah) 
-
-Reddit: https://www.reddit.com/r/unrealengine/comments/bo7yko/ue4minimal_my_unreal_engine_minimal_theme/
-
-Unreal Engine Forums: https://forums.unrealengine.com/community/work-in-progress/1618822-ue4minimal-my-unreal-engine-minimal-theme
-
-**Alessa ❤️**
+![UE4 Minimal Screenshot 02](https://raw.githubusercontent.com/Solessfir/UE4Minimal/master/UE4Minimal01_02.jpg)
 
 ###### How to install:
-
 1. Navigate to your Engine\Content folder.
 
 2. Make a copy of these two folders: "Editor" and "Slate" this will be your backup if you
@@ -38,3 +31,15 @@ Engine/Content folder. You will be asked to override a few thousand files, hit y
 Do not copy and replace the "Editor/Slate/Graph" folder.
 
 5. Once all is done, open the editor and enjoy your new minimal theme.
+
+This is all done in my free time, and is something I consider spending a couple months perfecting - 
+So please be patient!
+
+###### Links:
+Twitter: [@codekittah](http://twitter.com/Codekittah), [@solessfir](https://twitter.com/solessfir)
+
+Reddit: https://www.reddit.com/r/unrealengine/comments/bo7yko/ue4minimal_my_unreal_engine_minimal_theme/
+
+Unreal Engine Forums: https://forums.unrealengine.com/community/work-in-progress/1618822-ue4minimal-my-unreal-engine-minimal-theme
+
+**Alessa ❤️**
