@@ -24,7 +24,7 @@ would like to revert the theme, otherwise, you'll have to reinstall the engine.
 
 ![UE4 Minimal Screenshot 02](https://github.com/Solessfir/UE4Minimal/blob/8632ac028871095fcfaef72e779bf694a6044ab3/UE4Minimal01_02.png)
 
-###### Links:
+### Links:
 [@codekittah](http://twitter.com/Codekittah)<br>
 [@solessfir](https://twitter.com/solessfir)<br>
 [Reddit](https://www.reddit.com/r/unrealengine/comments/bo7yko/ue4minimal_my_unreal_engine_minimal_theme)<br>
